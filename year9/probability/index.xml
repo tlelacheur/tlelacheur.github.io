@@ -27,6 +27,7 @@ $$Pr(\text{not }X)=1-Pr(X)$$ Examples Example 1: A letter is randomly chosen fro
 For example:
 Display in a Venn Diagram the outcomes of rolling a die for:
 $Pr(A)$ rolling an event number $Pr(B)$ rolling a prime number ||{&amp;#34;id&amp;#34;:526581189939}|| Two-way Tables A two-way table can also be used to display the same data as a two-set Venn Diagram.</description>
+<<<<<<< HEAD
     </item>
     
     <item>
@@ -63,6 +64,8 @@ $Pr(A)$ rolling an event number $Pr(B)$ rolling a prime number ||{&amp;#34;id&am
       
       <guid>https://tlelacheur.github.io/year9/probability/lesson6/</guid>
       <description></description>
+=======
+>>>>>>> 9b34b31536f2755cee31cb4607c3334372662981
     </item>
     
   </channel>
