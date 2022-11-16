@@ -112,6 +112,7 @@ pre {
 
 
 
+
 .theme-light {
   --color-primary: #0060df;
   --color-secondary: #fbfbfe;
@@ -133,4 +134,9 @@ pre {
   padding: 10px 20px;
   border: 0;
   border-radius: 5px;
+}
+
+
+svg g{ 
+  fill:var(--font-color);
 }
