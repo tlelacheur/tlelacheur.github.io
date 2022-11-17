@@ -143,5 +143,5 @@ svg g{
 
 
 .svg g path{ 
-  fill:var(--color-primary);
+  fill: #f180a5;
 }
