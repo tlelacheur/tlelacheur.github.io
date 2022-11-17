@@ -142,6 +142,6 @@ svg g{
 }
 
 
-.pathcolor{ 
-  fill:#17ed90;
+.svg g path{ 
+  fill:var(--link-color;
 }
