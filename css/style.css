@@ -140,3 +140,8 @@ pre {
 svg g{ 
   fill:var(--font-color);
 }
+
+
+svg g path{ 
+  fill:var(--font-color);
+}
