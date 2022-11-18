@@ -119,6 +119,7 @@ pre {
   --color-accent: #fd6f53;
   --font-color: #333;
   --link-color: #003b89;
+  --table-hover:  #ddd;
 }
 .theme-dark {
   --color-primary: #17ed90;
@@ -126,6 +127,7 @@ pre {
   --color-accent: #12cdea;
   --font-color: #ffffff;
   --link-color: #818cff;
+  --table-hover:  #3e3f42;
 }
 
 .site-header button {
@@ -139,9 +141,4 @@ pre {
 
 svg g{ 
   fill:var(--font-color);
-}
-
-
-.svg g path{ 
-  fill: #f180a5;
 }
