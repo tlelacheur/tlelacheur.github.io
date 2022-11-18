@@ -107,6 +107,7 @@ pre {
   width: 100vw;
   max-width: 100%;
   height: fit-content;
+  fill: var(--font-color);
 }
 
 
@@ -144,7 +145,7 @@ svg g{
   fill:var(--font-color);
 }
 
-.math svg g path{ 
+/* .math svg g path{ 
   fill: var(--font-color);
-}
+} */
 
