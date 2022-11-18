@@ -107,7 +107,6 @@ pre {
   width: 100vw;
   max-width: 100%;
   height: fit-content;
-  fill: var(--font-color);
 }
 
 
@@ -122,6 +121,7 @@ pre {
   --font-color: #333;
   --link-color: #003b89;
   --table-hover:  #ddd;
+  --ink-color:  rgb(60, 0, 211);
 }
 .theme-dark {
   --color-primary: #17ed90;
@@ -130,6 +130,7 @@ pre {
   --font-color: #ffffff;
   --link-color: #818cff;
   --table-hover:  #3e3f42;
+  --ink-color:  rgb(255, 147, 201);
 }
 
 .site-header button {
@@ -145,7 +146,7 @@ svg g{
   fill:var(--font-color);
 }
 
-/* .math svg g path{ 
-  fill: var(--font-color);
-} */
+svg g path{ 
+  fill: var(--ink-color);
+}
 
