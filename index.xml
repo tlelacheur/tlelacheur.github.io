@@ -40,8 +40,7 @@ Sets are defined using curly brackets ${\text{ } }$
 Example 3.1 List these sets: 1. {arrangements of the letters ACT} 2. {mulitples of 4 less than 20} ||{&amp;#34;id&amp;#34;:1304824891129}|| Set Notation The universal set (or sample space) is all the elements for a given problem,
 $U={0,1,2,3,4,5,6,7,8,9}$
 Set $A$ is then defined from the universal set:
-$A={0,2,4,6,8}$
-The complement of $A$ is denoted as $A&amp;rsquo;$ .</description>
+$A=\lbrace 0,2,4,6,8 \rbrace$</description>
     </item>
     
     <item>
