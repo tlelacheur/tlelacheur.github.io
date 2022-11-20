@@ -17,58 +17,5 @@ For all events $0 \leq Pr(X) \leq 1$ A sample space is a set of all the possible
 $$Pr(\text{not }X)=Pr(X&amp;rsquo;)=1-Pr(X)$$ Examples Example 1.1: A letter is randomly chosen from the word AEROPLANE.</description>
     </item>
     
-    <item>
-      <title>Lesson 2: Venn Digrams</title>
-      <link>https://tlelacheur.github.io/year9/probability/lesson2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tlelacheur.github.io/year9/probability/lesson2/</guid>
-      <description>Venn Diagrams A Venn diagram is a way to display the elements of a set. We can used them in probabilty to display the number of outcomes of a particular event especially if there are overlapping outcomes.
-For example:
-Display in a Venn Diagram the outcomes of rolling a die for:
-$Pr(A)$ rolling an event number $Pr(B)$ rolling a prime number ||{&amp;#34;id&amp;#34;:526581189939}|| Two-way Tables A two-way table can also be used to display the same data as a two-set Venn Diagram.</description>
-    </item>
-    
-    <item>
-      <title>Lesson 3: Set Notation</title>
-      <link>https://tlelacheur.github.io/year9/probability/lesson3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tlelacheur.github.io/year9/probability/lesson3/</guid>
-      <description>Sets A set is a group of elements, often defined by a rule.
-Sets are defined using curly brackets ${\text{ } }$
-Example 3.1 List these sets: 1. {arrangements of the letters ACT} 2. {mulitples of 4 less than 20} ||{&amp;#34;id&amp;#34;:1304824891129}|| Set Notation The universal set (or sample space) is all the elements for a given problem,
-$U=\lbrace 0,1,2,3,4,5,6,7,8,9 \rbrace$
-Set $A$ is then defined from the universal set:
-$A=\lbrace 0,2,4,6,8 \rbrace$</description>
-    </item>
-    
-    <item>
-      <title>Lesson 4: Multiple Events</title>
-      <link>https://tlelacheur.github.io/year9/probability/lesson4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tlelacheur.github.io/year9/probability/lesson4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lesson 5: Tree Diagrams</title>
-      <link>https://tlelacheur.github.io/year9/probability/lesson5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tlelacheur.github.io/year9/probability/lesson5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lesson 6: Experimental Probability</title>
-      <link>https://tlelacheur.github.io/year9/probability/lesson6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tlelacheur.github.io/year9/probability/lesson6/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
