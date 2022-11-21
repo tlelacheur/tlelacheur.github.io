@@ -66,13 +66,13 @@ body {
 
 
 
-.topics table {
+table {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
 }
 
-.topics td, th {
+td, th {
   border: 1px solid #ddd;
   padding: 8px;
 }
