@@ -50,7 +50,8 @@ $A=\lbrace 0,2,4,6,8 \rbrace$</description>
       
       <guid>https://tlelacheur.github.io/year9/probability/lesson4/</guid>
       <description>Using Arrays A 2-dimentional array can be used to display the outcomes of a two-step experiment. such as rolling two dice, selecting two items from a list or flipping a coin twice:
-&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; H T H &amp;nbsp;{ H, H }&amp;nbsp; &amp;nbsp;{ H, T }&amp;nbsp; T &amp;nbsp;{ T, H }&amp;nbsp; &amp;nbsp;{ T, T }&amp;nbsp; Experiments can be conducted: - With replacement (independent events) - Without replacement (dependent events) ``` Example 4.</description>
+&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; H T H &amp;nbsp;{ H, H }&amp;nbsp; &amp;nbsp;{ H, T }&amp;nbsp; T &amp;nbsp;{ T, H }&amp;nbsp; &amp;nbsp;{ T, T }&amp;nbsp; Experiments can be conducted:
+With replacement (independent events) Without replacement (dependent events) Example 4.1 Two identical counters have a red side (R) and a blue side (B).</description>
     </item>
     
     <item>
