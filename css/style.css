@@ -160,3 +160,8 @@ svg g{
   fill: var(--ink-color);
 }
 
+.math g{ 
+  fill: var(--ink-color);
+}
+
+
