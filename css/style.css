@@ -156,10 +156,11 @@ pre {
   fill:var(--font-color);
 }
 
-.math path{ 
+.math g, path{ 
   fill: var(--ink-color);
 }
 
+<<<<<<< HEAD
 .math g{ 
   fill: var(--ink-color);
 }
@@ -168,4 +169,6 @@ pre {
   fill: none;
 }
 
+=======
+>>>>>>> 34ae2cd6170d2a60e46a88e08dd98aab25e5146f
 
