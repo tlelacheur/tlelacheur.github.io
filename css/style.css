@@ -164,4 +164,8 @@ svg g{
   fill: var(--ink-color);
 }
 
+.nofill { 
+  fill: none;
+}
+
 
