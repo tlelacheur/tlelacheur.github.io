@@ -156,7 +156,8 @@ svg g{
   fill:var(--font-color);
 }
 
-.math path{ 
+.math g, path{ 
   fill: var(--ink-color);
 }
+
 
