@@ -152,7 +152,7 @@ pre {
 }
 
 
-svg g{ 
+.logo g{ 
   fill:var(--font-color);
 }
 
