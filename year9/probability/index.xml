@@ -24,10 +24,10 @@ $$Pr(\text{not }X)=Pr(X&amp;rsquo;)=1-Pr(X)$$ Examples Example 1.1: A letter is 
       
       <guid>https://tlelacheur.github.io/year9/probability/lesson2/</guid>
       <description>Video link: Venn Diagrams
-Venn Diagrams A Venn diagram is a way to display the elements of a set. We can used them in probabilty to display the number of outcomes of a particular event especially if there are overlapping outcomes.
+Venn Diagrams A Venn diagram is a way to display the elements of a set. In probabilty, they are used to display the outcomes of a particular event; especially useful if there are overlapping outcomes.
 For example:
 Display in a Venn Diagram the outcomes of rolling a die for:
-$Pr(A)$ rolling an event number $Pr(B)$ rolling a prime number ||{&amp;#34;id&amp;#34;:526581189939}|| Two-way Tables A two-way table can also be used to display the same data as a two-set Venn Diagram.</description>
+$Pr(A)$ rolling an event number $Pr(B)$ rolling a prime number ||{&amp;#34;id&amp;#34;:526581189939}|| Two-way Tables A two-way table can be used to display the same information as a two-set Venn Diagram.</description>
     </item>
     
     <item>
