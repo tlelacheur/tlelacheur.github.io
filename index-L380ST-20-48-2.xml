@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Topic 10: Probability on Mr Lash Maths</title>
-    <link>https://tlelacheur.github.io/year9/probability/</link>
-    <description>Recent content in Topic 10: Probability on Mr Lash Maths</description>
+    <title>Mr Lash Maths</title>
+    <link>https://tlelacheur.github.io/</link>
+    <description>Recent content on Mr Lash Maths</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://tlelacheur.github.io/year9/probability/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://tlelacheur.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lesson 1: Probability Review</title>
       <link>https://tlelacheur.github.io/year9/probability/lesson1/</link>
