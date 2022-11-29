@@ -45,6 +45,15 @@ $A=\lbrace 0,2,4,6,8 \rbrace$</description>
     </item>
     
     <item>
+      <title>Lesson 4: Tree Diagrams</title>
+      <link>https://tlelacheur.github.io/year9/probability/lesson5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tlelacheur.github.io/year9/probability/lesson5/</guid>
+      <description>Tree diagrams are used to list the outcomes for multiple-step experiments and events Subsequent trials can be: independent / with replacement (same probability applies) dependent / without replacement (the previous trial determines the probability) Each trial is listed vertically To calculate final outcomes - go along the branches from left to right, multipling probabilities. If many outcomes are required (OR), add the probabilites. For more information see: Probability Tree Diagrams (mathsisfun.</description>
+    </item>
+    
+    <item>
       <title>Lesson 4: Two-Step Experiments</title>
       <link>https://tlelacheur.github.io/year9/probability/lesson4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -56,16 +65,7 @@ With replacement (independent events) Without replacement (dependent events) Exa
     </item>
     
     <item>
-      <title>Lesson 5: Tree Diagrams</title>
-      <link>https://tlelacheur.github.io/year9/probability/lesson5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tlelacheur.github.io/year9/probability/lesson5/</guid>
-      <description>Tree diagrams are used to list the outcomes for multiple-step experiments and events As for two-step experiments, subsequent trials can be: independent / with replacement (same probability applies) dependent / without replacement (the previous trial determines the probability) Each trial is listed vertically Final outcomes - go along the branches from left to right, multipling probabilities. If many outcomes are required (OR), add the probabilites. For more information see: Probability Tree Diagrams (mathsisfun.</description>
-    </item>
-    
-    <item>
-      <title>Lesson 6: Experimental Probability</title>
+      <title>Lesson 5: Experimental Probability</title>
       <link>https://tlelacheur.github.io/year9/probability/lesson6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
