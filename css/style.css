@@ -217,7 +217,7 @@ pre {
 .main
 {
   max-width: 100%;
-  width:calc(100% - 325px);
+  width:calc(100% - 350px);
   padding-right: 10px;
   position: absolute;
   left:350px;
@@ -232,6 +232,7 @@ pre {
   .main {  
     position: relative;
     left: 0px;
+    width:calc(100% - 50px);
   }
   }
   
