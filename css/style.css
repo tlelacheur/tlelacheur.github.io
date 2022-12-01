@@ -217,7 +217,7 @@ pre {
 .main
 {
   max-width: 100%;
-  width:100%;
+  width:calc(100% - 325px);
   padding-right: 10px;
   position: absolute;
   left:350px;
