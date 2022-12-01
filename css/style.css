@@ -12,7 +12,6 @@ body {
 }
 
 .content {
-  margin-left: 350px;
   margin-bottom: 2rem;
 }
 
@@ -210,14 +209,18 @@ pre {
   display: block;
 }
 
+.main {
+  padding-left: 325px;
+}
+
 @media screen and (max-width: 1400px) {
   .sidenav {
     width:0px;
     visibility:hidden;
   }
 
-  .content {
-    margin-left: 0px;
+  .main {
+    padding-left: 0px;
   }
   }
   
