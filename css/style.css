@@ -7,7 +7,6 @@ body {
   font-size: 12pt;
   line-height: 1.5;
   max-width: 45rem;
-  left: 360px;
   padding: 1rem;
   margin: 0 auto;
 }
@@ -142,7 +141,7 @@ pre {
 .theme-toby {
   --color-primary: #ff4b4b;
   --color-secondary: #17172b;
-  --color-side: #28284d;
+  --color-side: #505255;
   --color-accent: #12cdea;
   --font-color: #ffffff;
   --link-color: #818cff;
@@ -200,9 +199,8 @@ pre {
   background-color: var(--table-hover)
 }
 
-/*Not doing anything */
 .main {
-  padding-left: 0px;
+  left: 320px;
 }
 
 .sideTitle {
@@ -220,8 +218,8 @@ pre {
     visibility:hidden;
   }
 
-  body {
-    left: 20px;
+  .main {
+    left: 0px;
   }
   }
   
