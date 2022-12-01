@@ -7,7 +7,7 @@ body {
   font-size: 12pt;
   line-height: 1.5;
   max-width: 45rem;
-  padding: 1rem;
+  padding: 300px 1rem 1rem 1rem;
   margin: 0 auto;
 }
 
@@ -189,10 +189,14 @@ pre {
 }
 
 .sidenav a {
-  padding: 6px 8px 6px 16px;
+  padding: 6px;
   text-decoration: none;
   color: var(--font-color);
   display: block;
+}
+
+.sidenav a:hover {
+  color: var(--table-hover)
 }
 
 /*Not doing anything */
@@ -200,8 +204,8 @@ pre {
   padding-left: 0px;
 }
 
-.sideTitle a {
-  padding: 6px 8px 6px 16px;
+.sideTitle {
+  padding: 6px;
   text-decoration:underline;
   font-weight: bold;
   font-size: 16pt;
@@ -209,10 +213,14 @@ pre {
   display: block;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .sidenav {
     width:0px;
     visibility:hidden;
+  }
+
+  body {
+    padding:1rem;
   }
   }
   
