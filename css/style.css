@@ -7,7 +7,7 @@ body {
   font-size: 12pt;
   line-height: 1.5;
   max-width: 45rem;
-  padding: 300px 1rem 1rem 1rem;
+  padding: 1rem 300px 1rem 1rem;
   margin: 0 auto;
 }
 
@@ -120,7 +120,7 @@ pre {
 .theme-light {
   --color-primary: #4b99ff;
   --color-secondary: #fbfbfe;
-  --color-side: #b7b7b7;
+  --color-side: #dcdcdc;
   --color-accent: #fd6f53;
   --font-color: #333;
   --link-color: #003b89;
@@ -196,7 +196,7 @@ pre {
 }
 
 .sidenav a:hover {
-  color: var(--table-hover)
+  background-color: var(--table-hover)
 }
 
 /*Not doing anything */
