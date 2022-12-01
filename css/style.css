@@ -193,7 +193,7 @@ pre {
   text-decoration: none;
   color: var(--font-color);
   display: block;
-  text-align: center;
+ 
 }
 
 .sidenav a:hover {
@@ -213,6 +213,7 @@ pre {
   font-size: 16pt;
   color: var(--font-color);
   display: block;
+  text-align: center;
 }
 
 .main
