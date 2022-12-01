@@ -196,11 +196,12 @@ pre {
 }
 
 .sidenav a:hover {
-  background-color: var(--table-hover)
+  background-color: var(--table-hover);
 }
 
 .sidenav li:hover {
-  background-color: var(--table-hover)
+  display: block;
+  background-color: var(--table-hover);
 }
 
 
