@@ -53,14 +53,18 @@ body {
     padding-left: 0;
   }
 
-  .main{
-    padding-left: 0px;
-  }
 
-  .sidenav {
-    visibility:collapse;
-  }
-  
+}
+
+@media screen and (max-width: 600px) {
+.main{
+  padding-left: 0px;
+}
+
+.sidenav {
+  width:0px;
+  visibility:collapse;
+}
 }
 
 /* LISTS */
@@ -126,6 +130,7 @@ pre {
 .theme-light {
   --color-primary: #4b99ff;
   --color-secondary: #fbfbfe;
+  --color-side: #b7b7b7;
   --color-accent: #fd6f53;
   --font-color: #333;
   --link-color: #003b89;
@@ -135,6 +140,7 @@ pre {
 .theme-dark {
   --color-primary: #1ea168;
   --color-secondary: #2f3032;
+  --color-side: #505255;
   --color-accent: #12cdea;
   --font-color: #ffffff;
   --link-color: #818cff;
@@ -145,6 +151,7 @@ pre {
 .theme-toby {
   --color-primary: #ff4b4b;
   --color-secondary: #17172b;
+  --color-secondary: #343464;
   --color-accent: #12cdea;
   --font-color: #ffffff;
   --link-color: #818cff;
@@ -185,7 +192,7 @@ pre {
   left: 0;
   overflow-x: hidden;
   padding-top: 200px;
-  background: var(--color-secondary);
+  background: var(--color-side);
   font-family:Arial, Helvetica, sans-serif;
   font-size: 12pt;
   visibility:visible;
@@ -201,4 +208,13 @@ pre {
 /*Not doing anything */
 .main {
   padding-left: 0px;
+}
+
+.sideTitle a {
+  padding: 6px 8px 6px 16px;
+  text-decoration:underline;
+  font-weight: bold;
+  font-size: 16pt;
+  color: var(--font-color);
+  display: block;
 }
