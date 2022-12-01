@@ -7,7 +7,7 @@ body {
   font-size: 12pt;
   line-height: 1.5;
   max-width: 45rem;
-  padding: 1rem 300px 1rem 1rem;
+  padding: 1rem 600px 1rem 1rem;
   margin: 0 auto;
 }
 
@@ -124,7 +124,7 @@ pre {
   --color-accent: #fd6f53;
   --font-color: #333;
   --link-color: #003b89;
-  --table-hover:  #ddd;
+  --table-hover:  rgb(189, 189, 189);
   --ink-color:  rgb(91, 41, 218);
 }
 .theme-dark {
